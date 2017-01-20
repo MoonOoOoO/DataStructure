@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/record.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/spot.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/cmake-build-debug/spotMsg.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/DataStructure/Car.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/DataStructure/Graph.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/DataStructure/Queue.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/DataStructure/Stack.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/LoadGraph.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/MiniDistance.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/MiniSpanTree.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/OutputGraph.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/Parking.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/SearchSpot.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/Sort.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/TUI.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/include/TourGraph.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/LoadGraph.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MiniDistance.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MiniSpanTree.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/OutputGraph.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Parking.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/SearchSpot.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Sort.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TUI.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TourGraph.cpp" charset="GBK" />
+  </component>
+</project>
