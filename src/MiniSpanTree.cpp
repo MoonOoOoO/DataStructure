@@ -36,3 +36,5 @@ void miniSpanTree(ALGraph G) {
     }
     cout << endl;
 }
+
+
